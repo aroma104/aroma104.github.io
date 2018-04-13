@@ -2,8 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ab0a9e0-b68b-4504-8213-f9fdbecfb52b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_include/css/responsive.css" afterPath="$PROJECT_DIR$/_include/css/responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/include/css/bootstrap-responsive.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/include/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fancybox/blank.gif" afterPath="$PROJECT_DIR$/include/css/fancybox/blank.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fancybox/fancybox_loading.gif" afterPath="$PROJECT_DIR$/include/css/fancybox/fancybox_loading.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fancybox/fancybox_overlay.png" afterPath="$PROJECT_DIR$/include/css/fancybox/fancybox_overlay.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fancybox/fancybox_sprite.png" afterPath="$PROJECT_DIR$/include/css/fancybox/fancybox_sprite.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fancybox/jquery.fancybox.css" afterPath="$PROJECT_DIR$/include/css/fancybox/jquery.fancybox.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fonts.css" afterPath="$PROJECT_DIR$/include/css/fonts.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fonts/Icons.eot" afterPath="$PROJECT_DIR$/include/css/fonts/Icons.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fonts/Icons.svg" afterPath="$PROJECT_DIR$/include/css/fonts/Icons.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fonts/Icons.ttf" afterPath="$PROJECT_DIR$/include/css/fonts/Icons.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/fonts/Icons.woff" afterPath="$PROJECT_DIR$/include/css/fonts/Icons.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/main.css" afterPath="$PROJECT_DIR$/include/css/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/responsive.css" afterPath="$PROJECT_DIR$/include/css/responsive.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/shortcodes.css" afterPath="$PROJECT_DIR$/include/css/shortcodes.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/supersized.css" afterPath="$PROJECT_DIR$/include/css/supersized.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/css/supersized.shutter.css" afterPath="$PROJECT_DIR$/include/css/supersized.shutter.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/filter-icon.png" afterPath="$PROJECT_DIR$/include/img/filter-icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/filter-icon_@2x.png" afterPath="$PROJECT_DIR$/include/img/filter-icon_@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/logo.png" afterPath="$PROJECT_DIR$/include/img/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/logo_@2x.png" afterPath="$PROJECT_DIR$/include/img/logo_@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/menu-mobile.png" afterPath="$PROJECT_DIR$/include/img/menu-mobile.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/menu-mobile_@2x.png" afterPath="$PROJECT_DIR$/include/img/menu-mobile_@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/profile/profile-01.jpg" afterPath="$PROJECT_DIR$/include/img/profile/profile-01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/profile/profile-02.jpg" afterPath="$PROJECT_DIR$/include/img/profile/profile-02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/profile/profile-03.jpg" afterPath="$PROJECT_DIR$/include/img/profile/profile-03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/slider-images/image01.jpg" afterPath="$PROJECT_DIR$/include/img/slider-images/image01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/slider-images/image02.jpg" afterPath="$PROJECT_DIR$/include/img/slider-images/image02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/slider-images/image03.jpg" afterPath="$PROJECT_DIR$/include/img/slider-images/image03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/slider-images/image04.jpg" afterPath="$PROJECT_DIR$/include/img/slider-images/image04.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/back.png" afterPath="$PROJECT_DIR$/include/img/supersized/back.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/bg-black.png" afterPath="$PROJECT_DIR$/include/img/supersized/bg-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/bg-hover.png" afterPath="$PROJECT_DIR$/include/img/supersized/bg-hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/button-tray-down.png" afterPath="$PROJECT_DIR$/include/img/supersized/button-tray-down.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/button-tray-up.png" afterPath="$PROJECT_DIR$/include/img/supersized/button-tray-up.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/forward.png" afterPath="$PROJECT_DIR$/include/img/supersized/forward.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/nav-bg.png" afterPath="$PROJECT_DIR$/include/img/supersized/nav-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/nav-dot.png" afterPath="$PROJECT_DIR$/include/img/supersized/nav-dot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/pause.png" afterPath="$PROJECT_DIR$/include/img/supersized/pause.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/play.png" afterPath="$PROJECT_DIR$/include/img/supersized/play.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/progress-back.png" afterPath="$PROJECT_DIR$/include/img/supersized/progress-back.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/progress-bar.png" afterPath="$PROJECT_DIR$/include/img/supersized/progress-bar.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/progress.gif" afterPath="$PROJECT_DIR$/include/img/supersized/progress.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/supersized-logo.png" afterPath="$PROJECT_DIR$/include/img/supersized/supersized-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/thumb-back.png" afterPath="$PROJECT_DIR$/include/img/supersized/thumb-back.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/supersized/thumb-forward.png" afterPath="$PROJECT_DIR$/include/img/supersized/thumb-forward.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/full/image-01-full.jpg" afterPath="$PROJECT_DIR$/include/img/work/full/image-01-full.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/full/image-02-full.jpg" afterPath="$PROJECT_DIR$/include/img/work/full/image-02-full.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/full/image-03-full.jpg" afterPath="$PROJECT_DIR$/include/img/work/full/image-03-full.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/full/image-04-full.jpg" afterPath="$PROJECT_DIR$/include/img/work/full/image-04-full.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/full/image-05-full.jpg" afterPath="$PROJECT_DIR$/include/img/work/full/image-05-full.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/full/image-06-full.jpg" afterPath="$PROJECT_DIR$/include/img/work/full/image-06-full.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/full/image-07-full.jpg" afterPath="$PROJECT_DIR$/include/img/work/full/image-07-full.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-01.jpg" afterPath="$PROJECT_DIR$/include/img/work/thumbs/image-01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-02.jpg" afterPath="$PROJECT_DIR$/include/img/work/thumbs/image-02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-03.jpg" afterPath="$PROJECT_DIR$/include/img/work/thumbs/image-03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-04.jpg" afterPath="$PROJECT_DIR$/include/img/work/thumbs/image-04.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-05.jpg" afterPath="$PROJECT_DIR$/include/img/work/thumbs/image-05.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-06.jpg" afterPath="$PROJECT_DIR$/include/img/work/thumbs/image-06.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-07.jpg" afterPath="$PROJECT_DIR$/include/img/work/thumbs/image-07.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-08.jpg" afterPath="$PROJECT_DIR$/include/img/work/thumbs/image-08.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/img/work/thumbs/image-09.jpg" afterPath="$PROJECT_DIR$/include/img/work/thumbs/image-09.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/include/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/jquery.fancybox-media.js" afterPath="$PROJECT_DIR$/include/js/jquery.fancybox-media.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/jquery.fancybox.pack.js" afterPath="$PROJECT_DIR$/include/js/jquery.fancybox.pack.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/jquery.isotope.js" afterPath="$PROJECT_DIR$/include/js/jquery.isotope.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/jquery.tweet.js" afterPath="$PROJECT_DIR$/include/js/jquery.tweet.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/main.js" afterPath="$PROJECT_DIR$/include/js/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/modernizr.js" afterPath="$PROJECT_DIR$/include/js/modernizr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/placeholder.js" afterPath="$PROJECT_DIR$/include/js/placeholder.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/plugins.js" afterPath="$PROJECT_DIR$/include/js/plugins.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/supersized.3.2.7.min.js" afterPath="$PROJECT_DIR$/include/js/supersized.3.2.7.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/twitter/index.php" afterPath="$PROJECT_DIR$/include/js/twitter/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/twitter/lib/tmhOAuth.php" afterPath="$PROJECT_DIR$/include/js/twitter/lib/tmhOAuth.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/twitter/lib/tmhUtilities.php" afterPath="$PROJECT_DIR$/include/js/twitter/lib/tmhUtilities.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/waypoints-sticky.js" afterPath="$PROJECT_DIR$/include/js/waypoints-sticky.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/js/waypoints.js" afterPath="$PROJECT_DIR$/include/js/waypoints.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_include/php/contact.php" afterPath="$PROJECT_DIR$/include/php/contact.php" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,17 +100,17 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="202" column="53" lean-forward="false" selection-start-line="202" selection-start-column="53" selection-end-line="202" selection-end-column="53" />
+            <state relative-caret-position="376">
+              <caret line="54" column="35" lean-forward="true" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
               <folding>
-                <element signature="e#13522#13528#0" expanded="true" />
+                <element signature="e#13501#13507#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_include/css/responsive.css">
+        <entry file="file://$PROJECT_DIR$/include/css/responsive.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="608">
               <caret line="401" column="8" lean-forward="false" selection-start-line="401" selection-start-column="8" selection-end-line="401" selection-end-column="8" />
@@ -44,7 +120,7 @@
         </entry>
       </file>
       <file leaf-file-name="fonts.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_include/css/fonts.css">
+        <entry file="file://$PROJECT_DIR$/include/css/fonts.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="318">
               <caret line="240" column="21" lean-forward="true" selection-start-line="240" selection-start-column="21" selection-end-line="240" selection-end-column="21" />
@@ -66,7 +142,12 @@
       <find>Our Work</find>
       <find>work</find>
       <find>design</find>
+      <find>_include</find>
+      <find>omc;</find>
     </findStrings>
+    <replaceStrings>
+      <replace>include</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,6 +157,7 @@
       <list>
         <option value="$PROJECT_DIR$/_include/css/responsive.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_include/js/main.js" />
       </list>
     </option>
   </component>
@@ -129,7 +211,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_include" />
+              <option name="myItemId" value="include" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -147,7 +229,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_include" />
+              <option name="myItemId" value="include" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -165,7 +247,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_include" />
+              <option name="myItemId" value="include" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -179,7 +261,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_include" />
+              <option name="myItemId" value="include" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -196,6 +278,64 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -208,12 +348,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523585113860</updated>
       <workItem from="1523585115322" duration="83000" />
-      <workItem from="1523585301313" duration="1062000" />
+      <workItem from="1523585301313" duration="1201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1145000" />
+    <option name="totallyTimeSpent" value="1284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="23" width="1920" height="1057" extended-state="6" />
@@ -222,6 +362,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15271196" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -232,7 +373,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -253,20 +393,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#13522#13528#0" expanded="true" />
+            <element signature="e#13501#13507#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_include/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="763">
-          <caret line="452" column="0" lean-forward="true" selection-start-line="452" selection-start-column="0" selection-end-line="452" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_include/js/twitter/index.php">
+    <entry file="file://$PROJECT_DIR$/include/js/twitter/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="163" column="0" lean-forward="true" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
@@ -274,7 +406,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_include/js/modernizr.js">
+    <entry file="file://$PROJECT_DIR$/include/js/modernizr.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="1" column="605" lean-forward="true" selection-start-line="1" selection-start-column="605" selection-end-line="1" selection-end-column="605" />
@@ -282,7 +414,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_include/js/plugins.js">
+    <entry file="file://$PROJECT_DIR$/include/js/plugins.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3797">
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
@@ -292,17 +424,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_include/js/waypoints.js">
+    <entry file="file://$PROJECT_DIR$/include/js/waypoints.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8320">
           <caret line="21" column="68" lean-forward="true" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_include/php/contact.php">
+    <entry file="file://$PROJECT_DIR$/include/php/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1110">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -310,7 +442,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_include/css/fonts.css">
+    <entry file="file://$PROJECT_DIR$/include/css/fonts.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
           <caret line="240" column="21" lean-forward="true" selection-start-line="240" selection-start-column="21" selection-end-line="240" selection-end-column="21" />
@@ -318,7 +450,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_include/css/responsive.css">
+    <entry file="file://$PROJECT_DIR$/include/css/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="401" column="8" lean-forward="false" selection-start-line="401" selection-start-column="8" selection-end-line="401" selection-end-column="8" />
@@ -326,22 +458,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_include/img/work/full/image-01-full.jpg">
+    <entry file="file://$PROJECT_DIR$/include/img/work/full/image-01-full.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_include/img/work/full/image-02-full.jpg">
+    <entry file="file://$PROJECT_DIR$/include/img/work/full/image-02-full.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="94" column="53" lean-forward="true" selection-start-line="94" selection-start-column="53" selection-end-line="94" selection-end-column="53" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="202" column="53" lean-forward="false" selection-start-line="202" selection-start-column="53" selection-end-line="202" selection-end-column="53" />
+        <state relative-caret-position="376">
+          <caret line="54" column="35" lean-forward="true" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
           <folding>
-            <element signature="e#13522#13528#0" expanded="true" />
+            <element signature="e#13501#13507#0" expanded="true" />
           </folding>
         </state>
       </provider>

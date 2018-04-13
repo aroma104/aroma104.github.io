@@ -81,7 +81,7 @@ class ezTweet {
 			$cache_file = $this->cache_dir.$CFID;
 
 			if(file_exists($cache_file) && (filemtime($cache_file) > (time() - 60 * intval($this->cache_interval)))) {
-				return file_get_contents($cache_file, FILE_USE_INCLUDE_PATH);
+				return file_get_contents($cache_file, FILE_USEinclude_PATH);
 			} else {
 
 				$JSONraw = $this->getTwitterJSON();
