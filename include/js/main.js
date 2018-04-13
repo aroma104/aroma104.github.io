@@ -413,7 +413,7 @@ $(document).ready(function(){
 						hideOnFocus: false,
 						className: "yourClass",
 						textColor: "#999"
-						});    
+						});
 				}
 		}
 	}
